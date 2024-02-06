@@ -1,3 +1,14 @@
+/**
+ * DOTBB (Bulletin Board)
+ * Version: 0.1.0
+ * Author: Sam Wilcox <sam@dot-bb.com>
+ * 
+ * Website: https://www.dot-bb.com
+ * 
+ * User End License Agreement:
+ * https://license.dot-bb.com
+ */
+
 import logo from './logo.svg';
 import './App.css';
 
