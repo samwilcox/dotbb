@@ -1,2 +1,2 @@
 # discussify
-Bulletin board system  (PHP backend, React frontend)
+Responsive Bulletin board system  (PHP backend, React frontend)
